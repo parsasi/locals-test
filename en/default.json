@@ -1,6 +1,6 @@
 {
-  "TITLE": "Local Repository",
-  "WELCOME": {
-    "DEFAULT_WELCOME": "Welcome to the service"
-  }
+    "TITLE": "Local Repository",
+    "WELCOME": {
+        "DEFAULT_WELCOME": "Welcome to the service"
+    }
 }
